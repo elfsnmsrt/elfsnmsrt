@@ -51,7 +51,7 @@ Siber güvenlik ve yazılım geliştirme alanında kullandığım teknolojiler:
 Benimle iletişime geçmekten çekinmeyin!
 
 - *LinkedIn:* [Elif Sinem Sert](https://www.linkedin.com/in/elif-sinem-sert-7632a2302/)
-- *E-posta:* [email@adresin.com](mailto:email@adresin.com)
+- *E-posta:* [elfsnmsrt@gmail.com](mailto:elfsnmsrt@gmail.com)
 - *Medium:* [@elfsnmsrt](https://medium.com/@elfsnmsrt)
 
 ---
